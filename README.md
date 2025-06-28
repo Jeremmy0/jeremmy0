@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoola Jeremiah</h1>
 <h3 align="center">Frontend Developer & Creative Designer</h3>
 
-<p align="center">
+<p align="center gap-2">
   <a href="https://ayoolajeremy.vercel.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
@@ -27,6 +27,20 @@
 
 ---
 
+<!--
+**Jeremmy0/jeremmy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: .. -->
+
 ### 🚀 Tech Stack
 
 <p>
@@ -36,11 +50,14 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+<!--  ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayoolajeremy&show_icons=true&theme=radical" height="170"/>
@@ -50,7 +67,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ayoolajeremy&theme=radical&hide_border=false" height="180"/>
 </p>
-
+-->
 ---
 
 ### 🧩 Fun Fact
