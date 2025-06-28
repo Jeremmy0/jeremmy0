@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoola Jeremiah</h1>
 <h3 align="center">Frontend Developer & Creative Designer</h3>
 
-<p align="center gap-2">
+<p align="center ">
   <a href="https://ayoolajeremy.vercel.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
