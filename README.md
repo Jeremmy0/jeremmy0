@@ -21,7 +21,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m building clean, modern web experiences using the **latest frontend tools**
-- 🎨 I blend code with creativity — from smooth interactions to pixel-perfect layouts
+- 🎨 I blend code with creativity, from smooth interactions to pixel-perfect layouts
 - 🌱 Currently exploring advanced animations with **GSAP** and UI storytelling with **Framer**
 - 💬 Ask me about building landing pages, creative design systems, or interactive UI magic
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+-  I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -53,9 +53,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
----
+
 
 <!--  ### 📈 GitHub Stats
 
@@ -72,7 +74,8 @@ Here are some ideas to get you started:
 
 ### 🧩 Fun Fact
 
-I believe good design **feels** better than it looks — and I bring that principle into every product I touch.
+- ⚡ Fun fact: I speak JavaScript, but sometimes JavaScript doesn’t speak back, oh i speak sarcasm too 🤐.
+
 
 ---
 
@@ -81,8 +84,11 @@ I believe good design **feels** better than it looks — and I bring that princi
 Open to collaborations, freelance work, and creative dev/design ideas. Just reach out!
 
 ---
+👯 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😄
 
 
+
+---
 <!--
 **Jeremmy0/jeremmy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
